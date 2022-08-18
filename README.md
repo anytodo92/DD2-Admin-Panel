@@ -32,14 +32,6 @@ We require you to build a simple CRUD (Create, Read, Update, Delete) application
 - Git Usuage
 - Best Practices followed in the code
 
-# Steps to take the assignment test:
-
-- Fork the github repo, So that you can work on your own repo.
-- Clone & Start working on the assignment, Keep pushing the commits as you work with well explained commit messages.
-- Send your public github repo link to us (on angelList/LinkedIn, you can also email us at anytodo92@dd2.co), We will review the code & functionality. Kindly make sure the github repo forked is actually public.
-
-We Wish you all the best, If you have any questions / queries about taking this assignment test please reach out to us.
-
 # Project Setup
 
 ## Install the dependencies
